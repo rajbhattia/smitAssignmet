@@ -1,0 +1,331 @@
+*{margin: 0;padding:0;box-sizing: border-box;}
+
+
+body{
+    margin: 0;
+    padding: 0;
+
+
+}
+#nam{
+  color: green;
+  padding-top: 30px;
+ }
+
+nav{
+    justify-content: space-around;
+    display: flex;
+    word-spacing: 15px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    float: center;
+    }
+   .menu a{
+          text-decoration: none;
+          color: grey;
+      }
+
+#r{
+
+    padding: 0 60px;
+    background-image: url("assets/first.jpg"); 
+    
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    
+}
+#v{
+
+    padding: 0 60px;
+    background-image: url("assets/div1.jpg"); 
+    
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    
+}
+
+
+    
+.bkg{
+ position: relative;
+ max-width: 400px;
+ padding: 25px;
+ background: white;
+ opacity: 80%;
+ margin-right: 70%;
+ margin-top: 22%;
+
+ }
+h1{
+      text-align: center;
+      color: grey;
+      margin-bottom: 30px;
+      font-size: 25px ;
+    }
+button{
+    background: black;
+    color: white;
+    padding: 3px;
+}
+.man-row{
+   float: left;
+   width: 116mm;
+
+ 
+   
+}
+#desi{
+
+    padding: 0 60px;
+    background-image: url("assets/designer.jpg"); 
+    height: 110vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   background-size: 100%;
+    background-repeat: no-repeat;
+   
+}
+.des{
+    position: relative;
+  width:350px;
+  height: 130px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+    margin-bottom: 25px;
+    background: white;
+    opacity: 80%;
+    margin-right: 75%;
+    display: flex;
+    
+    align-items: center;
+ }
+#bl{
+        color: black;
+       
+        
+     }
+#m{
+    margin-bottom: 10px;
+    margin-left: 12px;
+    justify-content: center;    
+}
+#trend{
+  float: 75%; 
+  
+
+}
+.tren{
+    
+    float: left;
+    
+}
+#clr{
+    
+    color: black;
+    padding-top: 30%;
+    opacity: 70%;
+    
+}
+#sml{
+    font-size: 20px;
+    text-align: center;
+}
+#behin{
+
+ 
+    background-image: url("assets/hind.jpg"); 
+    height: 110vh;
+ margin-top: 32%;
+ margin-left: 30%;
+  
+  
+   
+    background-repeat: no-repeat;
+   
+}
+.behidd{
+  background-color: white;
+  
+  opacity: 80%;
+  width: 300px;
+  height: 100px;
+  margin-right: 50%;
+
+}
+.behidd h1{
+    color: black;
+    text-align: center;
+    margin-left: 5%;
+    margin-bottom: 2%;
+    padding-left: 10%;
+    padding-top: 5%;
+
+}
+#log{
+    margin-left: 50%;
+    padding-top: 10px;
+    padding-bottom: 13%;
+     width: 10px;
+     height: 20px; 
+     justify-content: center; 
+}
+#log h1{
+    color: black;
+    padding-left: 50%;
+    padding-right: 40%;
+    font-size: 50px;    
+    opacity: 90%;
+}
+#sup {
+    text-align: left;
+    opacity: 90%;
+    color: black;
+}
+.supr{
+  padding-left:100px;
+  padding-top: 50px;
+
+}
+#subr h1{
+text-align: right;
+opacity: 90%;
+color: black;
+}
+#right
+{
+ display: flex;
+    justify-content: space-around;
+  align-items: left;
+  float: right;
+    padding-right: 100px;
+    padding-bottom: 200px;
+    
+
+    
+}
+#right p{
+    color: grey;
+}
+input{
+    width: 200px;
+    text-align: center;
+    word-spacing: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+#but{
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+#sub{
+    color: black;
+    opacity: 90%;
+
+}
+#shopee{
+ color: grey;
+ padding-top: 30px;
+}
+.shopcls{
+    float: left;
+    width: 125mm;
+    padding-left: 10%;
+    padding-right: 10%;
+   
+}
+.shopcls h1{
+    font-size: 20px;
+}
+.shopclstwo{
+       float: left;
+       width: 130mm;
+       padding-left: 10%;
+       padding-right: 10%;
+      
+   }
+.shopclstwo h1{
+       font-size: 20px;
+   }
+#woo{
+    float: right;
+    padding-left: 30px;
+}
+#last{
+    float: right;
+    padding-left: 10px; 
+}
+#firsimg{
+    padding-left: 147px;
+}
+#abt{
+    color: black;
+    text-align: left;
+    padding-left: 20px;
+}
+#plft{
+    padding-left: 20px;
+    padding-bottom: 10%;
+}
+#ftr h1,p{
+    text-align: left;
+    color: black;
+    size: 50px;
+    padding-left: 20px;
+    
+   
+}
+.lff{
+   padding-top: 20px;
+}
+.clrr{
+    background-color: honeydew;
+    height: 30%;
+        
+}
+#cent h1{
+    text-align: center;
+    color: black;
+   margin-bottom: 20px;
+}
+#cent p{
+    text-align: center;
+
+}
+#cent{
+    padding-bottom: 50px;
+    
+}
+/* for footer subs */
+#right1
+{
+ display: flex;
+    justify-content: space-around;
+  align-items: left;
+  float: right;
+    padding-right: 100px;
+    padding-bottom: 200px;
+    
+
+    
+}
+#right1 p{
+    color: grey;
+}
+input1{
+    width: 200px;
+    text-align: center;
+    word-spacing: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+#cont{
+    padding-left: 37%;
+    padding-right: 37%;
+}
